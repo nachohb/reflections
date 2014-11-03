@@ -9,3 +9,8 @@ comment 2
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 comment 3
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+comment 4
+
